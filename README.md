@@ -8,6 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=sujan804" alt="sujan804" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+            src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently mastering [Data Structure and And Algorithm](https://github.com/Sujan804/Algorithm-)
 
 - 🌱 I’m currently learning **Django,ReactJs,Postgress**
@@ -103,6 +106,12 @@
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" /> </a> </p>
 
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sujan804&show_icons=true&locale=en&layout=compact"
+        alt="sujan804" /></p>
+
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=sujan804&show_icons=true&locale=en" alt="sujan804" />
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan804&" alt="sujan804" /></p>
