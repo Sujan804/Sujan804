@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujan Ahmed</h1>
-<h3 align="center">Actively looking for a remote internship opportunities in software industry || Competitive programmer
-    || CS Grad 3rd year</h3>
-
+<h1 align="center">Hi 👋,Hi there!!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan804&label=Profile%20views&color=0e75b6&style=flat"
         alt="sujan804" /> </p>
 
