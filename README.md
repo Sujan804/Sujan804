@@ -42,12 +42,4 @@
             alt="sujanmec804/profile" height="30" width="40" /></a>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sujan804&show_icons=true&locale=en&layout=compact"
-        alt="sujan804" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sujan804&show_icons=true&locale=en" alt="sujan804" />
-</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan804&" alt="sujan804" /></p>
