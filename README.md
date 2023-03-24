@@ -30,13 +30,8 @@
 ###
 
 <p align="left">Hello there! My name is Sujan Ahmed and I'm a software developer from Mymensingh, Bangladesh. I'm passionate about building robust and scalable web applications using the latest technologies.
-
 My tech stack includes JavaScript, TypeScript, Python, React, Redux, Node.js, Express.js, Django, and MongoDB. I enjoy working with these technologies and am always eager to learn more.
-
-I have experience working on a variety of projects. I believe that clean and maintainable code is essential for successful software development and always strive to write code that is both efficient and elegant.
-
-When I'm not coding, you can find me exploring new technologies, or spending time with my family and friends.
-
+I have experience working on a variety of projects. I believe that clean and maintainable code is essential for successful software development and always strive to write code that is both efficient and elegant.When I'm not coding, you can find me exploring new technologies, or spending time with my family and friends.
 If you're interested in collaborating on a project or just want to chat about software development, feel free to reach out to me!</p>
 
 ###
