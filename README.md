@@ -50,40 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
 </div>
 
-###
-
-
-###
-
-
-###
-
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@sujanexpress&theme=cobalt" alt="Layout with last medium posts"  />
+</div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/S/count.svg?"  />
 </div>
 
-###
-
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/S/S/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@sujanexpress&theme=cobalt" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-
-###
-
-
-###
